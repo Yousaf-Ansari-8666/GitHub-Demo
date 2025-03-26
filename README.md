@@ -1,4 +1,4 @@
 # GitHub-Demo
 This is my first git hub repo.
-Author - Hafsa Yousaf
+Author - Hafsa (Muhammad Yousaf)
 
